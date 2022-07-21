@@ -1,4 +1,5 @@
 # test-payu-spa
+Reference project for payment integration with PayU.
 
 ## Project setup
 ```
@@ -20,5 +21,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### For more info on PayU configuration
+See [PayU Overview](https://developers.payu.com/en/overview.html).
+See [PayU RestAPI](https://developers.payu.com/en/restapi.html)
